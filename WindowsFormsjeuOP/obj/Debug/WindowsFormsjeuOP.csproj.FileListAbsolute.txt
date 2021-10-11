@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\JeuOP\WindowsFormsjeuOP\bin\Debug\WindowsFormsjeuOP.exe.config
+C:\Users\USER\source\repos\JeuOP\WindowsFormsjeuOP\bin\Debug\WindowsFormsjeuOP.exe
+C:\Users\USER\source\repos\JeuOP\WindowsFormsjeuOP\bin\Debug\WindowsFormsjeuOP.pdb
+C:\Users\USER\source\repos\JeuOP\WindowsFormsjeuOP\obj\Debug\WindowsFormsjeuOP.Form1.resources
+C:\Users\USER\source\repos\JeuOP\WindowsFormsjeuOP\obj\Debug\WindowsFormsjeuOP.Properties.Resources.resources
+C:\Users\USER\source\repos\JeuOP\WindowsFormsjeuOP\obj\Debug\WindowsFormsjeuOP.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\JeuOP\WindowsFormsjeuOP\obj\Debug\WindowsFormsjeuOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\JeuOP\WindowsFormsjeuOP\obj\Debug\WindowsFormsjeuOP.exe
+C:\Users\USER\source\repos\JeuOP\WindowsFormsjeuOP\obj\Debug\WindowsFormsjeuOP.pdb
+C:\Users\USER\source\repos\JeuOP\WindowsFormsjeuOP\obj\Debug\WindowsFormsjeuOP.csproj.AssemblyReference.cache
